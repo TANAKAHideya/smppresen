@@ -4,8 +4,8 @@ android {
     compileSdkVersion 'android-P'
     defaultConfig {
         applicationId "com.example.hide.smppresen"
-        minSdkVersion 'P'
-        targetSdkVersion 'P'
+        minSdkVersion 27
+        targetSdkVersion 27
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
